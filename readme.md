@@ -1,6 +1,6 @@
 ## Tp-0 Presentación 
 
-![foto]()
+![foto|100](foto.jpg)
 
 - Nombre: Agustín Sánchez
 - Legajo: 12189
